@@ -1,4 +1,4 @@
-![alt text](https://github.com/fpgatechsolution/PINE-A7-ARTIX7-FPGA-BOARD/blob/main/img/IMG1.jpg)
+![alt text](https://github.com/fpgatechsolution/PINE-A7-ARTIX7-FPGA-BOARD/blob/main/img/IMG2.jpg)
 
 # Features
 * Artix7 35T/50T/75T/100T
@@ -26,8 +26,6 @@
 
 # All Source code will be avaliable here soon 
 
-
-![alt text](https://github.com/fpgatechsolution/PINE-A7-ARTIX7-FPGA-BOARD/blob/main/img/IMG2.jpg)
 ![alt text](https://github.com/fpgatechsolution/PINE-A7-ARTIX7-FPGA-BOARD/blob/main/img/IMG3.jpg)
 
 
