@@ -2,6 +2,8 @@
 
 # Features
 
+ Markup : * Bullet list
+          * Bullet list item 2
 Artix7 35T/50T/75T/100T
 2Gb DDR3
 128Mb spi FLASH
