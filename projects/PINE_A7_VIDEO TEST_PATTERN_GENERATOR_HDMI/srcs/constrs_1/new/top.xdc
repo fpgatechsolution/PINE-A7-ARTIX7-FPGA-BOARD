@@ -33,7 +33,7 @@ set_property -dict { PACKAGE_PIN B11    IOSTANDARD LVCMOS33 } [get_ports { usb_u
 
 set_property -dict { PACKAGE_PIN N14   IOSTANDARD LVCMOS33 } [get_ports { reset }];
 
-set_property -dict { PACKAGE_PIN K2   IOSTANDARD LVCMOS33 } [get_ports { SW }];
+#set_property -dict { PACKAGE_PIN K2   IOSTANDARD LVCMOS33 } [get_ports { SW }];
 
 
 #######################################################################################
